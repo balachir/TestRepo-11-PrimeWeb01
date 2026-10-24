@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PrimeWeb01.UnitTests/PrimeWeb01.UnitTests.csproj" />
+  <Project Path="PrimeWeb01/PrimeWeb01.csproj" />
+</Solution>
